@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333002616917",
+    "project_id": "recetariob1",
+    "storage_bucket": "recetariob1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333002616917:android:77ee48c07e2463ab4964dc",
+        "android_client_info": {
+          "package_name": "com.example.recetariob1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333002616917-q7qvii93613aq50qlh0hfqhs9v674te1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsnjF9YIDw6IsGq9SnOc6pdjRGS_ibbXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333002616917-q7qvii93613aq50qlh0hfqhs9v674te1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
